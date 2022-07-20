@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cdehaan
 - 👀 I’m interested in coding and biking.
-- 🌱 I’m currently learning React 18.
 - 📫 Feel free to reach out here.
 
 <!---
