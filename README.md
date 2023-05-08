@@ -3,7 +3,7 @@
 - 📫 Feel free to reach out here.
 
 Please check out my personal projects here:<br/>
-<a href="https://www.simplyanything.ca">www.simplyanything.ca</a> ⬅️ Gesture game using Node.js and sockets<br/>
+<a href="https://www.simplyanything.ca">simplyanything.ca</a> ⬅️ Gesture game using Node.js and sockets<br/>
 <a href="https://wrapfield.com">wrapfield.com</a> ⬅️ Realtime multiplayer minesweeper using React and WebRTC<br/>
 
 <!---
